@@ -1,7 +1,7 @@
 {
   "Host": "REPLACE_WITH_RADMIN_VPN_SERVER_IP",
   "Port": 3306,
-  "Database": "transparent_grading_system",
+  "Database": "final_grading_system_db",
   "User": "REPLACE_USER",
   "Password": "REPLACE_PASSWORD"
 }
